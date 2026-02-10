@@ -1,0 +1,58 @@
+Name,Rating,Reviews,Location,Type,Category,Image_Path
+Apollo Hospitals,4.6,14000,Ganeshguri,Hospital,Healthcare,hospital_images/apollo_hospitals.jpg
+Narayana Hospital Guwahati,4.8,9700,Greenland Road,Hospital,Healthcare,hospital_images/narayana_hospital_guwahati.jpg
+Peerless Hospital,4.8,140,Bhabananda Boro Path,Hospital,Healthcare,hospital_images/peerless_hospital.jpg
+Swagat Super Speciality Hospital,4.2,1100,Kamakhya,Hospital,Healthcare,hospital_images/swagat_super_speciality_hospital.jpg
+North Guwahati Multi-speciality Hospital,3.8,63,DC Office Road,General hospital,Healthcare,hospital_images/north_guwahati_multi-speciality_hospital.jpg
+Hayat Hospital,4.7,14300,Kahilipara Main Rd,Hospital,Healthcare,hospital_images/hayat_hospital.jpg
+Apollo Excelcare Hospital,4.7,13500,NH-37,Hospital,Healthcare,hospital_images/apollo_excelcare_hospital.jpg
+Nemcare Multispeciality Hospital,5.0,12,GS Rd,Hospital,Healthcare,hospital_images/nemcare_multispeciality_hospital.jpg
+GNRC Medical North Guwahati,4.8,7000,IIT Road,Hospital,Healthcare,hospital_images/gnrc_medical_north_guwahati.jpg
+Arya Hospital,4.0,569,Ulubari,Private hospital,Healthcare,hospital_images/arya_hospital.jpg
+HEALTH CITY HOSPITAL,3.3,1400,Khanapara,Private hospital,Healthcare,hospital_images/health_city_hospital.jpg
+Wintrobe Hospital,4.2,271,Uzan Bazar,Hospital,Healthcare,hospital_images/wintrobe_hospital.jpg
+Peerless Hospital (Ayursundra),4.1,1200,Guwahati,Private hospital,Healthcare,hospital_images/peerless_hospital_(ayursundra).jpg
+Sanjevani Hospital,3.4,352,Kamakhya,General hospital,Healthcare,hospital_images/sanjevani_hospital.jpg
+Patna Orthopaedic And Multispeciality,3.2,62,Guwahati,Hospital,Healthcare,hospital_images/patna_orthopaedic_and_multispeciality.jpg
+GNRC Hospitals Dispur Unit,4.7,8400,Guwahati,Hospital,Healthcare,hospital_images/gnrc_hospitals_dispur_unit.jpg
+Nemcare Super Speciality Hospital,3.8,2400,Guwahati,Hospital,Healthcare,hospital_images/nemcare_super_speciality_hospital.jpg
+Dispur Hospital,4.2,1700,GMC Ward Number 44,Hospital,Healthcare,hospital_images/dispur_hospital.jpg
+St. John's Hospital,3.8,118,Guwahati,General hospital,Healthcare,hospital_images/st_john's_hospital.jpg
+MARWARI HOSPITALS,3.9,770,Guwahati,Hospital,Healthcare,hospital_images/marwari_hospitals.jpg
+GATE Hospital,4.1,603,Zoo-Narengi Rd,Hospital,Healthcare,hospital_images/gate_hospital.jpg
+Agile Hospitals Private Limited,3.9,482,Khanapara,Private hospital,Healthcare,hospital_images/agile_hospitals_private_limited.jpg
+Gauhati Medical College and Hospital,3.6,738,Narakasur Hilltop,Hospital,Healthcare,hospital_images/gauhati_medical_college_and_hospital.jpg
+Guwahati Metro Hospital,3.8,502,Khanapara,Hospital,Healthcare,hospital_images/guwahati_metro_hospital.jpg
+down town hospital,3.9,1400,GS Rd,Private hospital,Healthcare,hospital_images/down_town_hospital.jpg
+Satribari Christian Hospital,3.8,153,Chatribari Rd,Hospital,Healthcare,hospital_images/satribari_christian_hospital.jpg
+GNRC Good Health Hospital,4.8,143,GS Rd,Private hospital,Healthcare,hospital_images/gnrc_good_health_hospital.jpg
+Tolaram Bafna Civil Hospital,3.5,61,National Highway 31,Hospital,Healthcare,hospital_images/tolaram_bafna_civil_hospital.jpg
+Gauhati University Hospital,3.9,40,Jalukbari,University hospital,Healthcare,hospital_images/gauhati_university_hospital.jpg
+Global Hospital of Surgery,3.7,217,Dargah Rd,General hospital,Healthcare,hospital_images/global_hospital_of_surgery.jpg
+Sun Valley Hospital,4.2,402,Guwahati,General hospital,Healthcare,hospital_images/sun_valley_hospital.jpg
+Super Speciality Hospital GMCH,3.9,87,Guwahati,Hospital,Healthcare,hospital_images/super_speciality_hospital_gmch.jpg
+Dispur Polyclinic and Hospitals Pvt.,4.1,1200,GMC Ward Number 44,Hospital,Healthcare,hospital_images/dispur_polyclinic_and_hospitals_pvt.jpg
+Cancer Hospital And Research Center,2.9,8,Ulubari,Hospital,Healthcare,hospital_images/cancer_hospital_and_research_center.jpg
+Mahendra Mohan Choudhury Hospital,3.9,182,Fancy Bazaar,Government hospital,Healthcare,hospital_images/mahendra_mohan_choudhury_hospital.jpg
+ABM Medicos,4.1,38,Guwahati,Pharmacy,Healthcare,hospital_images/abm_medicos.jpg
+Assam Secretariat,4.2,1200,"Dispur, Last Gate",Administrative Office,Government,govt_images/assam_secretariat.jpg
+Guwahati Municipal Corporation (GMC),3.8,450,Pan Bazaar,Municipal Office,Government,govt_images/gmc_panbazaar.jpg
+DC Office Kamrup Metro,3.9,850,Pan Bazaar,Administrative Office,Government,govt_images/dc_office.jpg
+Passport Seva Kendra,4.0,2100,"GS Road, Bhangagarh",Service Center,Government,govt_images/passport_office.jpg
+Guwahati High Court,4.5,320,"Latasil, MG Road",Judiciary,Government,govt_images/high_court.jpg
+Commissioner of Police Office,4.1,150,Pan Bazaar,Law Enforcement,Government,govt_images/police_commissioner.jpg
+Kamakhya Temple,4.8,150000,Nilachal Hills,Religious Site,Tourism,tourist_images/kamakhya.jpg
+Assam State Zoo cum Botanical Garden,4.3,35000,RG Baruah Rd,Zoo/Park,Tourism,tourist_images/zoo.jpg
+Umananda Temple,4.7,12000,Peacock Island,Religious Site,Tourism,tourist_images/umananda.jpg
+Shraddhanjali Kanan,4.2,15000,RG Baruah Rd,Park,Tourism,tourist_images/shraddhanjali_kanan.jpg
+Nehru Park,4.1,8000,Pan Bazaar,Park,Tourism,tourist_images/nehru_park.jpg
+Sankardev Kalakshetra,4.6,20000,Panjabari,Cultural Center,Tourism,tourist_images/kalakshetra.jpg
+Brahmaputra Heritage Centre,4.5,2500,Pan Bazaar,Museum/Heritage,Tourism,tourist_images/heritage_centre.jpg
+APDCL Bijulee Bhawan,3.4,500,Paltan Bazaar,Electricity Board,Utilities,utility_images/apdcl_hq.jpg
+Guwahati Jal Board,3.2,200,Christian Basti,Water Supply,Utilities,utility_images/jal_board.jpg
+GMC Water Works,3.5,80,Pan Bazaar,Water Supply,Utilities,utility_images/gmc_water.jpg
+BSNL Telephone Exchange,3.0,150,Pan Bazaar,Telecommunications,Utilities,utility_images/bsnl.jpg
+Indian Oil (Guwahati Service Station),4.0,1200,Paltan Bazaar,Fuel Station,Petrol Pump,petrol_images/iocl_paltan.jpg
+Bharat Petroleum (City Fuel),4.2,900,GS Road,Fuel Station,Petrol Pump,petrol_images/bpcl_gsroad.jpg
+HP Petrol Pump,3.9,600,Beltola,Fuel Station,Petrol Pump,petrol_images/hpcl_beltola.jpg
+Indian Oil (Assam Oil),4.1,400,Noonmati,Fuel Station,Petrol Pump,petrol_images/iocl_noonmati.jpg
