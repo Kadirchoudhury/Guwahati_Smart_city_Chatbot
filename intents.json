@@ -1,0 +1,295 @@
+{
+  "intents": [
+
+    {
+      "tag": "find_hospital",
+      "patterns": [
+        "nearest hospital",
+        "hospital near me",
+        "hospital in beltola",
+        "private hospital in guwahati",
+        "government hospital",
+        "best hospital nearby",
+        "emergency hospital",
+        "24 hour hospital",
+        "clinic near me",
+        "medical center in maligaon",
+        "hospital in bhangagarh",
+        "children hospital",
+        "heart hospital",
+        "eye hospital",
+        "where is gmch hospital",
+        "hospital contact number",
+        "hospital address",
+        "multispeciality hospital",
+        "trauma center",
+        "icu hospital near me"
+      ],
+      "responses": [
+        "Here are the hospitals available in that area."
+      ]
+    },
+
+    {
+      "tag": "emergency_services",
+      "patterns": [
+        "emergency number",
+        "ambulance number",
+        "police helpline",
+        "fire brigade number",
+        "disaster helpline",
+        "flood emergency contact",
+        "urgent help",
+        "need ambulance",
+        "call police",
+        "medical emergency",
+        "fire emergency",
+        "what is 112",
+        "emergency support",
+        "urgent medical help",
+        "nearest emergency service",
+        "control room number",
+        "emergency hospital contact",
+        "help during flood",
+        "rescue number",
+        "sos number"
+      ],
+      "responses": [
+        "For emergencies, please contact the appropriate helpline immediately."
+      ]
+    },
+
+    {
+      "tag": "govt_office_info",
+      "patterns": [
+        "government office near me",
+        "gmc office",
+        "municipal office",
+        "dc office guwahati",
+        "ration office",
+        "passport office",
+        "tax office",
+        "electricity office",
+        "water department office",
+        "where is municipal corporation",
+        "government office timing",
+        "office contact number",
+        "public service office",
+        "voter id office",
+        "aadhaar center",
+        "property tax office",
+        "land record office",
+        "licensing office",
+        "urban planning office",
+        "civic office"
+      ],
+      "responses": [
+        "Here are the government offices in your requested area."
+      ]
+    },
+
+    {
+      "tag": "tourist_places",
+      "patterns": [
+        "tourist places in guwahati",
+        "places to visit",
+        "parks near me",
+        "famous places in guwahati",
+        "temples in guwahati",
+        "kamakhya temple",
+        "family outing places",
+        "best sightseeing",
+        "museum in guwahati",
+        "zoo in guwahati",
+        "river cruise",
+        "park timings",
+        "tourist attraction near beltola",
+        "picnic spot",
+        "botanical garden",
+        "historical place",
+        "weekend trip location",
+        "nature park",
+        "children park",
+        "recreation area"
+      ],
+      "responses": [
+        "Here are some tourist attractions you can explore."
+      ]
+    },
+
+    {
+      "tag": "petrol_pump",
+      "patterns": [
+        "petrol pump near me",
+        "fuel station in beltola",
+        "diesel pump",
+        "nearest petrol pump",
+        "cng station",
+        "gas station",
+        "24 hour petrol pump",
+        "fuel station contact",
+        "petrol price",
+        "diesel price",
+        "oil pump",
+        "bharat petroleum",
+        "indian oil pump",
+        "hp petrol pump",
+        "fuel station in maligaon",
+        "gas pump nearby",
+        "refueling station",
+        "petrol bunk",
+        "petrol pump timings",
+        "fuel availability"
+      ],
+      "responses": [
+        "Here are the fuel stations available nearby."
+      ]
+    },
+
+    {
+      "tag": "water_supply",
+      "patterns": [
+        "water supply issue",
+        "water problem",
+        "no water in area",
+        "water department contact",
+        "water complaint",
+        "water leakage",
+        "drinking water office",
+        "water tanker request",
+        "water connection",
+        "municipal water timing",
+        "water supply office",
+        "water shortage",
+        "water helpline",
+        "water bill office",
+        "water authority",
+        "public water service",
+        "water maintenance",
+        "water emergency",
+        "pipe leakage complaint",
+        "water distribution office"
+      ],
+      "responses": [
+        "Here is the water supply department information."
+      ]
+    },
+
+    {
+      "tag": "electricity_issue",
+      "patterns": [
+        "power cut",
+        "electricity problem",
+        "electricity office",
+        "electricity complaint",
+        "electricity helpline",
+        "power outage",
+        "apdcl office",
+        "electric bill office",
+        "electric connection",
+        "electric repair",
+        "transformer issue",
+        "electricity emergency",
+        "no electricity",
+        "power department contact",
+        "electricity board office",
+        "current problem",
+        "power failure",
+        "electric office near me",
+        "electricity maintenance",
+        "complain electricity"
+      ],
+      "responses": [
+        "Here is the electricity department information."
+      ]
+    },
+
+    {
+      "tag": "waste_management",
+      "patterns": [
+        "garbage collection",
+        "waste management office",
+        "garbage complaint",
+        "trash collection",
+        "solid waste department",
+        "dustbin location",
+        "waste issue",
+        "garbage pickup",
+        "municipal waste",
+        "garbage helpline",
+        "waste complaint number",
+        "cleaning service",
+        "street cleaning",
+        "garbage truck timing",
+        "waste disposal site",
+        "public cleaning office",
+        "sanitation office",
+        "waste management contact",
+        "dirty road complaint",
+        "municipal cleaning"
+      ],
+      "responses": [
+        "Here is the waste management department information."
+      ]
+    },
+
+    {
+      "tag": "timings_query",
+      "patterns": [
+        "office timing",
+        "opening hours",
+        "closing time",
+        "hospital timing",
+        "park timing",
+        "petrol pump timing",
+        "government office hours",
+        "when does it open",
+        "when does it close",
+        "service timing",
+        "working hours",
+        "today timing",
+        "weekend timing",
+        "holiday timing",
+        "is it open now",
+        "office schedule",
+        "visiting hours",
+        "public hours",
+        "operation time",
+        "business hours"
+      ],
+      "responses": [
+        "Here are the timings for the requested service."
+      ]
+    },
+
+    {
+      "tag": "contact_query",
+      "patterns": [
+        "contact number",
+        "phone number",
+        "call number",
+        "office contact",
+        "hospital phone",
+        "helpline number",
+        "department number",
+        "contact details",
+        "service phone",
+        "customer care number",
+        "emergency contact",
+        "support number",
+        "office phone",
+        "how to contact",
+        "service contact",
+        "authority contact",
+        "official number",
+        "mobile number",
+        "telephone number",
+        "call center number"
+      ],
+      "responses": [
+        "Here are the contact details for the requested service."
+      ]
+    }
+
+  ]
+}
